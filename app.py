@@ -137,11 +137,6 @@ def click():
 
 
 	output.configure(text=(result1))
-	print(str(result1))
-
-	
-
-
 
 Label(window, text="Voltage").grid(row=1, column=1)
 Label(window, text="Ampage").grid(row=3, column=1)
